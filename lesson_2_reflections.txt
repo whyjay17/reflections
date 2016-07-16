@@ -1,3 +1,7 @@
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 - When I want to create new features for my project, it is good to create a branch and experiment the new feature without having the master branch affected by the new update which might include potential bugs.
+
+What happens when you initialize a repository? Why do you need to do it?
+
+- It creates a git repository on the directory so that we can commit stuffs
