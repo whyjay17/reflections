@@ -9,3 +9,18 @@ What happens when you initialize a repository? Why do you need to do it?
 How do the diagrams help you visualize the branch structure?
 
 - It help me to figure out at which point of the commit new branches have appeared. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+- When we merge two branches, then all functions in the smaller branch gets included into the bigger branch. We represent it in the diagram to see in which situation the new branch was added.the 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+- Automatic Merging
+
+pros: makes no conflict
+
+- Manual merging
+
+pros: can fulfill both intentions of two different authors 
+cons: has to figure out the reason of conflict. 
