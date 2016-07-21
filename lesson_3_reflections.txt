@@ -1,6 +1,13 @@
 When would you want to use a remote repository rather than keeping all your work local?
 - When I am not working on my own computer
 
-How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+- There could be a bug
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+- fork: copy a repository from github to github. we do this because we might not have direct edit access to someone else's repository
+- clone: copying a respository in same environment. ex) git->git, github->github
+- branch: making another version of a respository
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 - Use google doc? it would be harder since it updates every single changes automatically. It will be hard to revert back to the desired save point since there are no such thing as commit message.
