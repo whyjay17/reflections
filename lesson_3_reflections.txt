@@ -1,2 +1,6 @@
 When would you want to use a remote repository rather than keeping all your work local?
 - When I am not working on my own computer
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+- Use google doc? it would be harder since it updates every single changes automatically. It will be hard to revert back to the desired save point since there are no such thing as commit message.
